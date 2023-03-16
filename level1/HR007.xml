@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Čuvaj se senjske ruke</title>
+				<title ref="viaf:90145857864623021562">Čuvaj se senjske ruke</title>
 				<author ref="viaf:56659888">August Šenoa (1838-1881)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

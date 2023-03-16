@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Olga i Lina</title>
+				<title ref="viaf:7122165709985649380000">Olga i Lina</title>
 				<author ref="viaf:42148505">Eugen Kumičić (1850-1904)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

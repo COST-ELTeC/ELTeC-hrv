@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Janko Borislavić</title>
+            <title ref="viaf:1420165326424116290007">Janko Borislavić</title>
             <author ref="viaf:17362607">Ksaver Šandor Gjalski (1854-1935)</author>
             <respStmt>
                <resp>ELTEC Conversion</resp>

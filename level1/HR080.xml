@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Melita</title>
+            <title ref="viaf:5730165326455116290002">Melita</title>
             <author ref="viaf:72314595">Josip Eugen Tomić (1843-1906)</author>
             <respStmt>
                <resp>ELTEC Conversion</resp>
