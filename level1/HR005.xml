@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tužna Jele</title>
+				<title ref="viaf:8875165326462116290006">Tužna Jele</title>
 				<author ref="viaf:38023914">Mato Vodopić (1816-1893)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

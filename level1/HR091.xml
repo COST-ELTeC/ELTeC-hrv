@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tito Dorčić</title>
+				<title ref="viaf:9974165326442616290005">Tito Dorčić</title>
 				<author ref="viaf:56670162">Vjenceslav Novak (1859-1905)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

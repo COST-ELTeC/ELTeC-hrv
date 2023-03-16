@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Zmaj od Bosne</title>
+            <title ref="viaf:308660351">Zmaj od Bosne</title>
             <author ref="viaf:72314595">Josip Eugen Tomić (1843-1906)</author>
             <respStmt>
                <resp>ELTEC Conversion</resp>

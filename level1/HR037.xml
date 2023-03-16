@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>U registraturi</title>
+            <title ref="viaf:218112844">U registraturi</title>
             <author ref="viaf:40178554">Ante Kovačić (1854-1889)</author>
             <respStmt>
                <resp>ELTEC Conversion</resp>

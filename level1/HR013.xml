@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Prosjak Luka</title>
+				<title ref="viaf:78145858131123022752">Prosjak Luka</title>
 				<author ref="viaf:56659888">August Šenoa (1838-1881)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

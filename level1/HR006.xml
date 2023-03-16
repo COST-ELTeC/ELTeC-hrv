@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Zlatarovo zlato</title>
+				<title ref="viaf:5146153014605251632">Zlatarovo zlato</title>
 				<author ref="viaf:56659888">August Šenoa (1838-1881)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

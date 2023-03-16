@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Đuka Begović</title>
+				<title ref="viaf:316637820">Đuka Begović</title>
 				<author ref="viaf:37335293">Ivan Kozarac (1885-1910)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

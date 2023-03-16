@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Gospođa Sabina</title>
+				<title ref="oclc:249190267">Gospođa Sabina</title>
 				<author ref="viaf:42148505">Eugen Kumičić (1850-1904)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>

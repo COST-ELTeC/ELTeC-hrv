@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Posljednji Stipančići</title>
+				<title ref="viaf:197689057">Posljednji Stipančići</title>
 				<author ref="viaf:56670162">Vjenceslav Novak (1859-1905)</author>
 				<respStmt>
 					<resp>ELTEC Conversion</resp>
